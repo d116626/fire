@@ -1,0 +1,1 @@
+# Data from: [INPE](http://queimadas.dgi.inpe.br/queimadas/portal-static/estatisticas_estados/)

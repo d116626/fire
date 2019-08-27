@@ -1,0 +1,1 @@
+# Data from: [Global Fire Data](https://www.globalfiredata.org/forecast.html)
